@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this commentary, please cite it using the metadata below."
+title: "As Voice Becomes Infrastructure, Workflow Becomes the Differentiator"
+type: article
+authors:
+  - family-names: "Lai"
+    given-names: "Johnny"
+year: 2026
+version: "1.0"
+abstract: >-
+  A technology and market commentary on conversational voice AI, healthcare workflows,
+  enterprise application controls, and the convergence of communications infrastructure
+  with systems of record.
